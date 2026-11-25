@@ -1,7 +1,7 @@
 {
     "name": "Cypher-MD",
     "version": "2.1.0",
-    "description": "A multi tasking bot for developers and for the fem boys. since it was made by a fem boy",
+    "description": "A multi tasking bot for developers and for my terminal lover, {fem boys}",
     "main": "src/cyphers.js",
     "scripts": {
         "start": "node src/index.js --silent",
